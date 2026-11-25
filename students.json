@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Rahul",
+        "age": 25,
+        "course": "Generative AI"
+    },
+    {
+        "name": "Amit",
+        "age": 28,
+        "course": "Python"
+    }
+]

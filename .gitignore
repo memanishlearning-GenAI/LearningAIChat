@@ -1,0 +1,10 @@
+.env
+secrets.json
+*.pdf
+*.tmp
+*_old.*
+# Python cache files
+__pycache__/
+*.py[cod]
+
+
